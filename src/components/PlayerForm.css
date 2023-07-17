@@ -1,0 +1,16 @@
+.form  {
+    display:flex;
+    position:relative;
+    justify-content: center;
+}
+input{
+    display:flex;
+    justify-content: center;
+    margin:10px;  
+}
+button{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}

@@ -1,0 +1,10 @@
+.buttons{
+    display:flex;
+    justify-content: center;
+}
+.modal{
+    display: sticky;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:50px;
+}

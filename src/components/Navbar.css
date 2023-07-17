@@ -1,0 +1,7 @@
+.links a{
+    color: rgb(158, 16, 16);
+    letter-spacing: normal;
+    justify-content: left ;
+    display:flex;
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+img{
+    width: 300px;
+    height: 200px;
+    position:relative;
+    display: flex;
+    margin-right: 50px;
+}
+.players{
+    display: flex;
+    margin-right: 50px;
+}
